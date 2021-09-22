@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeivissonLisboa
-- 👀 I’m interested in Python data science
+- 👀 I’m interested in Python data science and game development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything that i can help
 - 📫 How to reach me: Email dvilaflor@gmail.com
